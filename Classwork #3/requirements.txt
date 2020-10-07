@@ -1,0 +1,4 @@
+1. Read lecture notes posted on canvas
+2. Use gui_text_clean.py example, add save to text file functionality
+3. Please new source code of gui_text_clean.py with added save to file functionality to Google drive. Add your name, readme.txt, .gitignore, requirements.txt.
+4. Create executable file from your script, add it to Google drive.
